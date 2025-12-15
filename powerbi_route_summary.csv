@@ -1,0 +1,111 @@
+START,STOP,CATEGORY,frequency,avg_distance,total_distance
+Apex,Cary,Business,5,6.34,31.7
+Bellevue,Seattle,Business,1,12.9,12.9
+Berkeley,Menlo Park,Business,1,45.9,45.9
+Berkeley,San Francisco,Business,3,12.2,36.6
+Capitol One,Mcvan,Business,1,14.4,14.4
+Capitol One,University District,Business,1,4.5,4.5
+Cary,Apex,Business,5,5.18,25.9
+Cary,Cary,Business,22,4.55,100.2
+Cary,Chapel Hill,Business,1,19.4,19.4
+Cary,Durham,Business,16,10.24,163.8
+Cary,Fuquay-Varina,Business,1,15.6,15.6
+Cary,Morrisville,Business,30,5.72,171.5
+Cary,Raleigh,Business,8,13.21,105.7
+Cary,Wake Co.,Business,1,6.6,6.6
+Chapel Hill,Cary,Business,1,23.3,23.3
+Chapel Hill,Morrisville,Business,1,17,17
+Daytona Beach,Jacksonville,Business,1,80.5,80.5
+Durham,Cary,Business,15,9.92,148.8
+Durham,Morrisville,Business,1,2.6,2.6
+East Austin,West University,Business,1,12.8,12.8
+East Harlem,NoMad,Business,1,6.4,6.4
+Eastgate,Walnut Terrace,Business,1,5.7,5.7
+Edgehill Farms,Whitebridge,Business,4,2.82,11.3
+Elmhurst,New York,Business,1,7.5,7.5
+Emeryville,Berkeley,Business,1,3.7,3.7
+Fayetteville Street,Depot Historic District,Business,1,0.8,0.8
+Fayetteville Street,Meredith Townes,Business,1,5.9,5.9
+Financial District,Kips Bay,Business,1,4.8,4.8
+Flatiron District,Midtown,Business,1,1.6,1.6
+Florence,Cary,Business,1,159.3,159.3
+Fort Pierce,Fort Pierce,Business,3,4.87,14.6
+Fort Pierce,West Palm Beach,Business,1,63.7,63.7
+Fuquay-Varina,Cary,Business,1,15.6,15.6
+Hazelwood,Whitebridge,Business,1,2.4,2.4
+Hell's Kitchen,Midtown,Business,1,2,2
+Hudson Square,Hell's Kitchen,Business,1,2.4,2.4
+Hudson Square,Lower Manhattan,Business,1,4,4
+Huntington Woods,Weston,Business,1,1.7,1.7
+Ingleside,Potrero Flats,Business,1,5.5,5.5
+Jacksonville,Ridgeland,Business,1,174.2,174.2
+Jamaica,New York,Business,2,19.4,38.8
+Kissimmee,Daytona Beach,Business,1,77.3,77.3
+Kissimmee,Kissimmee,Business,1,11,11
+Kissimmee,Orlando,Business,1,15.5,15.5
+Lower Manhattan,Hudson Square,Business,1,1.8,1.8
+Mcvan,Capitol One,Business,1,14.5,14.5
+Medical Centre,Tudor City,Business,1,0.7,0.7
+Menlo Park,Berkeley,Business,1,36.6,36.6
+Menlo Park,Newark,Business,1,7.9,7.9
+Meredith,Cedar Hill,Business,1,7.5,7.5
+Meredith Townes,Leesville Hollow,Business,1,9.4,9.4
+Midtown,East Harlem,Business,1,6.2,6.2
+Midtown,Hudson Square,Business,1,1.9,1.9
+Midtown,Midtown East,Business,1,1.7,1.7
+Midtown East,Midtown,Business,1,1.9,1.9
+Morrisville,Cary,Business,31,4.81,149.1
+Morrisville,Raleigh,Business,1,17,17
+New York,Jamaica,Business,1,16.3,16.3
+New York,Queens,Business,1,10.8,10.8
+New York,Queens County,Business,1,15.1,15.1
+Newark,Menlo Park,Business,1,9.3,9.3
+Newark,San Francisco,Business,1,25.6,25.6
+Northwoods,Whitebridge,Business,1,3.9,3.9
+Oakland,Berkeley,Business,1,6,6
+Orlando,Kissimmee,Business,1,20.3,20.3
+Palo Alto,Sunnyvale,Business,1,9.8,9.8
+Parkway,Whitebridge,Business,2,2.95,5.9
+Parkwood,Parkwood,Business,1,1.2,1.2
+Raleigh,Cary,Business,7,14.23,99.6
+Raleigh,Morrisville,Business,2,14.7,29.4
+Raleigh,Raleigh,Business,1,4.9,4.9
+Redmond,Bellevue,Business,1,2.9,2.9
+Renaissance,Agnew,Business,1,2.8,2.8
+Ridgeland,Florence,Business,1,144,144
+Rose Hill,Soho,Business,1,2.5,2.5
+San Francisco,Berkeley,Business,2,12.25,24.5
+San Francisco,Oakland,Business,2,11.3,22.6
+San Francisco,Palo Alto,Business,1,20.5,20.5
+Santa Clara,Berkeley,Business,1,43.9,43.9
+Seaport,Gramercy-Flatiron,Business,1,3.3,3.3
+Seattle,Redmond,Business,1,14.2,14.2
+Soho,Tribeca,Business,1,0.5,0.5
+Summerwinds,Whitebridge,Business,1,8.7,8.7
+Sunnyvale,Newark,Business,1,17.6,17.6
+Tanglewood,Parkway,Business,1,7.5,7.5
+The Drag,Congress Ave District,Business,1,2,2
+Townes at Everett Crossing,Chessington,Business,1,3.3,3.3
+Tribeca,Financial District,Business,1,0.9,0.9
+University District,Capitol One,Business,1,5,5
+Unknown Location,R?walpindi,Business,1,17.1,17.1
+Unknown Location,Unknown Location,Business,1,7.7,7.7
+Waverly Place,Whitebridge,Business,1,7.6,7.6
+Wayne Ridge,Whitebridge,Business,2,8,16
+West Berkeley,South,Business,1,5.9,5.9
+West Palm Beach,Palm Beach,Business,1,7.1,7.1
+West Palm Beach,West Palm Beach,Business,1,4.3,4.3
+Weston,Weston,Business,1,3.8,3.8
+Westpark Place,Whitebridge,Business,3,2.67,8
+Whitebridge,Edgehill Farms,Business,3,3.3,9.9
+Whitebridge,Hazelwood,Business,1,3,3
+Whitebridge,Macgregor Downs,Business,1,9,9
+Whitebridge,Northwoods,Business,1,5.2,5.2
+Whitebridge,Savon Height,Business,1,7.8,7.8
+Whitebridge,Summerwinds,Business,1,8.8,8.8
+Whitebridge,Tanglewood,Business,1,6.2,6.2
+Whitebridge,Waverly Place,Business,1,7.2,7.2
+Whitebridge,Wayne Ridge,Business,3,7.9,23.7
+Whitebridge,Westpark Place,Business,2,2.15,4.3
+Whitebridge,Whitebridge,Business,2,2.4,4.8
+Whitebridge,Williamsburg Manor,Business,1,8.3,8.3
